@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://jasonhand.github.io/patchouli-cowboy"
+baseurl = "https://jasonhand.github.io/hugo-sites"
 languageCode = "en-us"
 title = "Patchouli Cowboy"
 theme = "hugo-agency-theme"
